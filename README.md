@@ -38,4 +38,4 @@ We are using a dataset tailored for personalized mental health responses. The da
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/mental-health-support-rag.git
+   git clone https://github.com/pankajyadav8523/mental-health-support-rag.git
